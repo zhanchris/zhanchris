@@ -1,4 +1,4 @@
-Hi! My name is Chris Zhan. I'm a sophomore studying Data Science and Molecular and Cell Biology at the University of California, Berkeley.
+Hi! My name is Chris Zhan. I'm a junior studying Computer Science and Bioengineering at the University of California, Berkeley.
 
 These repositories contain my personal projects: 
 1. Sunflower Position Tracking for the Blackman Lab
